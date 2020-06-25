@@ -1,2 +1,2 @@
 # McDonald's Touch Interface Concept App
-McDonald's Touch Interface Concept App - Source Code - Enjoy !
+Source Code - Enjoy !
